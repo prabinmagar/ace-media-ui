@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'IntroLight';
+    src: url('IntroLight.eot');
+    src: url('IntroLight.eot?#iefix') format('embedded-opentype'),
+        url('IntroLight.woff2') format('woff2'),
+        url('IntroLight.woff') format('woff'),
+        url('IntroLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IntroRegular';
+    src: url('IntroRegular.eot');
+    src: url('IntroRegular.eot?#iefix') format('embedded-opentype'),
+        url('IntroRegular.woff2') format('woff2'),
+        url('IntroRegular.woff') format('woff'),
+        url('IntroRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Intro';
+    src: url('Intro-Bold.eot');
+    src: url('Intro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Intro-Bold.woff2') format('woff2'),
+        url('Intro-Bold.woff') format('woff'),
+        url('Intro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IntroRegular';
+    src: url('IntroRegular_1.eot');
+    src: url('IntroRegular_1.eot?#iefix') format('embedded-opentype'),
+        url('IntroRegular_1.woff2') format('woff2'),
+        url('IntroRegular_1.woff') format('woff'),
+        url('IntroRegular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'IntroLight';
+    src: url('IntroLight_1.eot');
+    src: url('IntroLight_1.eot?#iefix') format('embedded-opentype'),
+        url('IntroLight_1.woff2') format('woff2'),
+        url('IntroLight_1.woff') format('woff'),
+        url('IntroLight_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Intro';
+    src: url('Intro-Bold_1.eot');
+    src: url('Intro-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('Intro-Bold_1.woff2') format('woff2'),
+        url('Intro-Bold_1.woff') format('woff'),
+        url('Intro-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trajan Pro';
+    src: url('TrajanPro-Bold.eot');
+    src: url('TrajanPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TrajanPro-Bold.woff2') format('woff2'),
+        url('TrajanPro-Bold.woff') format('woff'),
+        url('TrajanPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Trajan Pro';
+    src: url('TrajanPro-Regular.eot');
+    src: url('TrajanPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TrajanPro-Regular.woff2') format('woff2'),
+        url('TrajanPro-Regular.woff') format('woff'),
+        url('TrajanPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
